@@ -1,4 +1,4 @@
-# Past Mistakes Reference - dtngoc49
+# Past Mistakes Reference
 # Copilotレビュー時のルール
 
 - 日本語でレビューを行うこと
